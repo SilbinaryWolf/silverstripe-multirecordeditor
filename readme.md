@@ -1,3 +1,6 @@
+## Outdated Repository
+Go here: https://github.com/SilbinaryWolf/multirecordfield
+
 # Multi Record Editing field
 
 A field for editing multiple fields in a single editing interface. 
